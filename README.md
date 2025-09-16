@@ -34,7 +34,7 @@ Hey! I'm Peniel, a Data Scientist passionate about transforming data into action
 #### [Loan-Default](https://github.com/pye024/Loan-Default)
 Loan risk prediction ML project  
 Tech: Python, Pandas, Scikit-learn, Streamlit, Docker  
-<img src="https://github.com/pye024/Loan-Default/raw/main/screenshot.png" alt="Loan-Default Screenshot" width="400"/>
+<img src="https://github.com/pye024/Loan-Default/raw/main/images/app.png" alt="Loan-Default Screenshot" width="400"/>
 
 ---
 
