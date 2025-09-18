@@ -45,7 +45,6 @@ Tech: Python
 <img src="https://github.com/pye024/DataLens/blob/main/assets/demo.gif" alt="DataLens Demo" width="400"/>
 
 ---
----
 
 #### [Ride_Price_Prediction](https://github.com/pye024/Ride_Price_Prediction)
 End-to-end ride fare prediction & web app  
