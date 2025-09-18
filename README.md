@@ -35,7 +35,16 @@ Hey! I'm Peniel, a Data Scientist passionate about transforming data into action
 Loan risk prediction ML project  
 Tech: Python, Pandas, Scikit-learn, Streamlit, Docker  
 <img src="https://github.com/pye024/Loan-Default/raw/main/images/app.png" alt="Loan-Default Screenshot" width="400"/>
+---
+---
 
+#### [DataLens](https://github.com/pye024/DataLens)
+AI-powered analytics assistant for non-technical users.  
+Upload CSVs or connect a database for instant insights, trends, and interactive dashboards.  
+Tech: Python  
+<img src="https://raw.githubusercontent.com/pye024/DataLens/main/assets/datalens_demo.gif" alt="DataLens Demo" width="400"/>
+
+---
 ---
 
 #### [Ride_Price_Prediction](https://github.com/pye024/Ride_Price_Prediction)
