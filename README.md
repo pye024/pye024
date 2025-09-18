@@ -38,7 +38,7 @@ Tech: Python, Pandas, Scikit-learn, Streamlit, Docker
 ---
 ---
 
-#### [DataLens](https://github.com/pye024/DataLens)
+#### [DataLens](https://github.com/pye024/DataLens) - AI-powered analytics assistant for non-technical users.
 AI-powered analytics assistant for non-technical users.  
 Upload CSVs or connect a database for instant insights, trends, and interactive dashboards.  
 Tech: Python  
