@@ -33,7 +33,9 @@ Hey! I'm Peniel, a Data Scientist passionate about transforming data into action
 ---
 
 #### [Loan-Default](https://github.com/pye024/Loan-Default) - Loan risk prediction ML project.
+
 <img src="https://github.com/pye024/Loan-Default/raw/main/images/app.png" alt="Loan-Default Screenshot" width="400"/>
+
 ---
 #### [DataLens](https://github.com/pye024/DataLens) - AI-powered analytics assistant for non-technical users.
 Upload CSVs or connect a database for instant insights, trends, and interactive dashboards.  
