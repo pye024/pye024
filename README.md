@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Peniel 👋</h1>
 
 <p align="center">
-  <b>Data Scientist & Analyst | ML Engineer | Visualization Specialist</b>
+  <b>Data Scientist & Analyst | ML Engineer</b>
 </p>
 
 ---
