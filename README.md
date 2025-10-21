@@ -37,15 +37,15 @@ Hey! I'm Peniel, a Data Scientist passionate about transforming data into action
 <img src="https://github.com/pye024/Loan-Default/raw/main/images/app.png" alt="Loan-Default Screenshot" width="400"/>
 
 ---
-#### [DataLens](https://github.com/pye024/DataLens) - AI-powered analytics assistant for non-technical users.
-Upload CSVs or connect a database for instant insights, trends, and interactive dashboards.  
+#### [DataLens](https://github.com/pye024/DataLens) - AI powered analytics assistant for non-technical users.
+Upload CSVs for instant insights, trends, and interactive dashboards.  
 Tech: Python  
 <img src="https://github.com/pye024/DataLens/blob/main/assets/demo.gif" alt="DataLens Demo" width="400"/>
 
 ---
 
 #### [Ride_Price_Prediction](https://github.com/pye024/Ride_Price_Prediction)
-End-to-end ride fare prediction & web app  
+End to end ride fare prediction & web app  
 Tech: Python, SQL, Snowflake, Tableau, Docker  
 <img src="https://github.com/pye024/Ride_Price_Prediction/blob/main/images/streamlit_dashboard.png" alt="Ride Price Prediction Screenshot" width="400"/>
 
