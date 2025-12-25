@@ -54,11 +54,6 @@ End to end ride fare prediction & web app
 Tech: Python, SQL, Snowflake, Tableau, Docker  
 <img src="https://github.com/pye024/Ride_Price_Prediction/blob/main/images/streamlit_dashboard.png" alt="Ride Price Prediction Screenshot" width="400"/>
 
-#### [Web-Marketing-Dashboard](https://github.com/pye024/Web-Marketing-Dashboard)
-Interactive Tableau dashboard for website analytics  
-Tech: Tableau  
-<img src="https://github.com/pye024/Web-Marketing-Dashboard/blob/main/images/WEB_MARKETING.png" alt="Web Marketing Dashboard Screenshot" width="400"/>
-
 #### [autoclean](https://github.com/pye024/autoclean)
 Python package for regex-based data cleaning  
 Tech: Python,Pandas,Regex  
