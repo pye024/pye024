@@ -30,14 +30,13 @@ Hey! I'm Peniel, a Data Scientist passionate about transforming data into action
 ---
 
 ### 🌟 Featured Projects
---
+
 #### [Sales Analysis](https://github.com/pye024/Sales-Analysis-With-Excel-and-Power-BI) - Analysis of Product Sales Using Excel and Power BI
 
 <img src="https://github.com/pye024/Sales-Analysis-With-Excel-and-Power-BI/blob/main/assets/report.png" alt="Dashboard" width="400"/>
----
 
-#### [Loan-Default](https://github.com/pye024/Loan-Default) - Credit risk prediction.
-For a detailed, scrollable walkthrough of this project, visit the Full Project Walkthrough
+#### [Loan-Default](https://github.com/pye024/Loan-Default) - Credit risk prediction
+For a detailed, presentation of this project, visit the Full Project Walkthrough
 
 [![Read the Docs](https://img.shields.io/badge/Project%20Walkthrough-Click%20Here-blue?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vRIadN3BzcTTg_pHQHjFtgkxNjWrNu2Xc2ltv3vikDQXbCzpFtMES23eqDiXO9G8N1Stbqk1hHD1qGO/pub)
 
