@@ -51,7 +51,7 @@ Tech: Python
 ---
 
 #### [AB Testing Onboarding](https://github.com/pye024/A-B-Testing-Onboarding-Screens) - A/B testing analysis for onboarding flows
-A project that designs and analyses A/B experiments to optimize user onboarding conversion and retention.   
+A project that designs and analyses A/B experiments to optimize user onboarding conversion 
 <img src="https://raw.githubusercontent.com/pye024/A-B-Testing-Onboarding-Screens/563486f6f9a053bbb36eaaefc2c87bd310d78d72/images/Summary_Sheet.png" alt="AB Testing Summary" width="400"/>
 
 ---
