@@ -31,7 +31,7 @@
 #### [Sales Analysis](https://github.com/pye024/Sales-Analysis-With-Excel-and-Power-BI) - Analysis of Product Sales Using Excel and Power BI
 
 <img src="https://github.com/pye024/Sales-Analysis-With-Excel-and-Power-BI/blob/main/assets/report.png" alt="Dashboard" width="400"/>
-
+---
 #### [Loan-Default](https://github.com/pye024/Loan-Default) - Credit risk prediction
 For a detailed, presentation of this project, visit the Full Project Walkthrough
 
@@ -40,21 +40,25 @@ For a detailed, presentation of this project, visit the Full Project Walkthrough
 
 <img src="https://github.com/pye024/Loan-Default/raw/main/images/app.png" alt="Loan-Default Screenshot" width="400"/>
 
+---
 #### [DataLens](https://github.com/pye024/DataLens) - AI powered analytics assistant for non-technical users.
 Upload CSVs for instant insights, trends, and interactive dashboards.  
 Tech: Python  
 <img src="https://github.com/pye024/DataLens/blob/main/assets/demo.gif" alt="DataLens Demo" width="400"/>
 
+---
 
 #### [AB Testing Onboarding](https://github.com/pye024/A-B-Testing-Onboarding-Screens) - A/B testing analysis for onboarding flows
 A project that designs and analyses A/B experiments to optimize user onboarding conversion and retention.   
 <img src="https://raw.githubusercontent.com/pye024/A-B-Testing-Onboarding-Screens/563486f6f9a053bbb36eaaefc2c87bd310d78d72/images/Summary_Sheet.png" alt="AB Testing Summary" width="400"/>
 
+---
 #### [Ride_Price_Prediction](https://github.com/pye024/Ride_Price_Prediction)
 End to end ride fare prediction & web app  
 Tech: Python, SQL, Snowflake, Tableau, Docker  
 <img src="https://github.com/pye024/Ride_Price_Prediction/blob/main/images/streamlit_dashboard.png" alt="Ride Price Prediction Screenshot" width="400"/>
 
+---
 #### [autoclean](https://github.com/pye024/autoclean)
 Python package for regex-based data cleaning  
 Tech: Python,Pandas,Regex  
