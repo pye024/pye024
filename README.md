@@ -8,7 +8,7 @@
 
 ###  About Me
 
-Hey! I'm Peniel, a Data Scientist passionate about transforming data into actionable insights, building robust end-to-end ML solutions, and crafting dashboards that make numbers tell stories. I thrive on impactful, collaborative projects and making data science approachable for everyone.
+Hey! I'm Peniel, a Data Scientist passionate about transforming data into actionable insights, building robust end-to-end ML solutions, and crafting dashboards that make numbers tell stories. I th[...]
 
 ---
 
@@ -40,7 +40,8 @@ Hey! I'm Peniel, a Data Scientist passionate about transforming data into action
 #### [Loan-Default](https://github.com/pye024/Loan-Default) - Credit risk prediction
 For a detailed, presentation of this project, visit the Full Project Walkthrough
 
-[![Read the Docs](https://img.shields.io/badge/Project%20Walkthrough-Click%20Here-blue?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vRIadN3BzcTTg_pHQHjFtgkxNjWrNu2Xc2ltv3vikDQXbCzpFtMES23eqDiXO9G8N1Stbqk1hHD1qGO/pub)
+[![Read the Docs](https://img.shields.io/badge/Project%20Walkthrough-Click%20Here-blue?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vRIadN3BzcTTg_pHQHjFtgkxNjWrNu2Xc2ltv3vikDQ[...]
+
 
 <img src="https://github.com/pye024/Loan-Default/raw/main/images/app.png" alt="Loan-Default Screenshot" width="400"/>
 
@@ -57,5 +58,10 @@ Tech: Python, SQL, Snowflake, Tableau, Docker
 #### [autoclean](https://github.com/pye024/autoclean)
 Python package for regex-based data cleaning  
 Tech: Python,Pandas,Regex  
+
+#### [AB Testing Onboarding](https://github.com/pye024/A-B-Testing-Onboarding-Screens) - A/B testing analysis for onboarding flows
+A project that designs and analyses A/B experiments to optimize user onboarding conversion and retention.  
+Tech: Python, pandas, scipy, statsmodels, seaborn  
+<img src="https://github.com/pye024/A-B-Testing-Onboarding-Screens/raw/main/assets/demo.gif" alt="AB Testing Screenshot" width="400"/>
 
 ---
