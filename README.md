@@ -1,16 +1,11 @@
 <h1 align="center">Hi there, I'm Peniel </h1>
 
 <p align="center">
-  <b>Data Scientist & Analyst | ML Engineer</b>
+  <b>Data Analyst | Data Scientist | ML Engineer</b>
 </p>
 
 ---
 
-###  About Me
-
-Hey! I'm Peniel, a Data Scientist passionate about transforming data into actionable insights, building robust end-to-end ML solutions, and crafting dashboards that make numbers tell stories. I th[...]
-
----
 
 ### Tech Stack & Tools
 
@@ -50,6 +45,11 @@ Upload CSVs for instant insights, trends, and interactive dashboards.
 Tech: Python  
 <img src="https://github.com/pye024/DataLens/blob/main/assets/demo.gif" alt="DataLens Demo" width="400"/>
 
+
+#### [AB Testing Onboarding](https://github.com/pye024/A-B-Testing-Onboarding-Screens) - A/B testing analysis for onboarding flows
+A project that designs and analyses A/B experiments to optimize user onboarding conversion and retention.   
+<img src="https://raw.githubusercontent.com/pye024/A-B-Testing-Onboarding-Screens/563486f6f9a053bbb36eaaefc2c87bd310d78d72/images/Summary_Sheet.png" alt="AB Testing Summary" width="400"/>
+
 #### [Ride_Price_Prediction](https://github.com/pye024/Ride_Price_Prediction)
 End to end ride fare prediction & web app  
 Tech: Python, SQL, Snowflake, Tableau, Docker  
@@ -58,10 +58,5 @@ Tech: Python, SQL, Snowflake, Tableau, Docker
 #### [autoclean](https://github.com/pye024/autoclean)
 Python package for regex-based data cleaning  
 Tech: Python,Pandas,Regex  
-
-#### [AB Testing Onboarding](https://github.com/pye024/A-B-Testing-Onboarding-Screens) - A/B testing analysis for onboarding flows
-A project that designs and analyses A/B experiments to optimize user onboarding conversion and retention.  
-Tech: Python, pandas, scipy, statsmodels, seaborn, Excel, Tableau  
-<img src="https://raw.githubusercontent.com/pye024/A-B-Testing-Onboarding-Screens/563486f6f9a053bbb36eaaefc2c87bd310d78d72/images/Summary_Sheet.png" alt="AB Testing Summary" width="400"/>
 
 ---
